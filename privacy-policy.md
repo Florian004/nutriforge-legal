@@ -145,4 +145,4 @@ wissentlich keine Daten von Kindern unter 16 Jahren.
 
 Wir können diese Datenschutzerklärung anpassen, um sie an geänderte
 Rechtslage oder neue Funktionen anzupassen. Die jeweils aktuelle Version
-findest du immer unter [URL EINFÜGEN].
+findest du immer unter https://florian004.github.io/nutriforge-legal/privacy-policy.html.
