@@ -44,9 +44,10 @@ für die Vertraulichkeit deiner Zugangsdaten selbst verantwortlich.
 ## 4. Premium-Abonnement (NutriForge Pro)
 
 - **Leistungsumfang:** Freischaltung der KI-Funktionen (Food-Scan,
-  KI-Trainingsplan) sowie ggf. weiterer Premium-Inhalte.
-- **Laufzeit & Preise:** Monatliches Abo zu 4,99 €/Monat oder jährliches
-  Abo zu 39,99 €/Jahr (siehe aktuelle Preise im Kaufbildschirm der App —
+  KI-Trainingsplan, KI-Wochenplan, KI-Coach) sowie ggf. weiterer
+  Premium-Inhalte.
+- **Laufzeit & Preise:** Monatliches Abo zu 6,99 €/Monat oder jährliches
+  Abo zu 49,99 €/Jahr (siehe aktuelle Preise im Kaufbildschirm der App —
   maßgeblich sind immer die dort zum Kaufzeitpunkt angezeigten Preise).
 - **Automatische Verlängerung:** Das Abonnement verlängert sich automatisch
   zum jeweils gültigen Preis, sofern du es nicht spätestens 24 Stunden vor
