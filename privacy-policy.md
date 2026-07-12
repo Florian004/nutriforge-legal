@@ -36,7 +36,10 @@ bei einem Gerätewechsel nicht verlierst.
 
 ### 2.2 Ernährungs- und Trainingsdaten
 Protokollierte Mahlzeiten, Kalorien- und Makronährstoffwerte, Wasserzufuhr,
-Trainingspläne, Workout-Verläufe und Gewichtsverlauf. Diese Daten zählen zu
+Trainingspläne, Workout-Verläufe, Gewichtsverlauf sowie — falls du die
+Intervallfasten-Funktion nutzt — deine Fasten-Zeiträume (Start, Ende,
+gewähltes Fastenfenster; diese werden ausschließlich lokal auf deinem Gerät
+gespeichert). Diese Daten zählen zu
 Gesundheitsdaten im Sinne der DSGVO (Art. 9) und werden entsprechend
 geschützt; die Verarbeitung erfolgt auf Grundlage deiner Einwilligung
 (Art. 9 Abs. 2 lit. a DSGVO).
