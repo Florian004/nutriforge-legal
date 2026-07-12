@@ -7,5 +7,6 @@ title: NutriForge — Rechtstexte
 
 - [Support & Kontakt](./support.html)
 - [Datenschutzerklärung](./privacy-policy.html)
+- [Privacy Policy (English)](./privacy-policy-en.html)
 - [Allgemeine Geschäftsbedingungen (AGB)](./terms-of-service.html)
 - [Impressum](./impressum.html)
