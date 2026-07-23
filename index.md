@@ -3,10 +3,15 @@ layout: default
 title: NutriForge — Rechtstexte
 ---
 
-# NutriForge — Rechtliche Informationen
+# Rechtliche Informationen
 
-- [Support & Kontakt](./support.html)
-- [Datenschutzerklärung](./privacy-policy.html)
-- [Privacy Policy (English)](./privacy-policy-en.html)
-- [Allgemeine Geschäftsbedingungen (AGB)](./terms-of-service.html)
-- [Impressum](./impressum.html)
+Hier findest du alle rechtlichen Dokumente und Kontaktmöglichkeiten für die
+NutriForge App.
+
+<ul class="nf-links">
+  <li><a href="./support.html">Support &amp; Kontakt</a></li>
+  <li><a href="./privacy-policy.html">Datenschutzerklärung</a></li>
+  <li><a href="./privacy-policy-en.html">Privacy Policy (English)</a></li>
+  <li><a href="./terms-of-service.html">Allgemeine Geschäftsbedingungen (AGB)</a></li>
+  <li><a href="./impressum.html">Impressum</a></li>
+</ul>
